@@ -53,7 +53,7 @@ namespace _11.KeyRevolver
                int earned = valueOfInteligence - (useBullets * priceOfBullet);
                 Console.WriteLine($"{stackOfBullets.Count} bullets left. Earned ${earned}");
             }
-            else
+            else 
             {
                 Console.WriteLine($"Couldn't get through. Locks left: {queueOfLocks.Count}");
             }
