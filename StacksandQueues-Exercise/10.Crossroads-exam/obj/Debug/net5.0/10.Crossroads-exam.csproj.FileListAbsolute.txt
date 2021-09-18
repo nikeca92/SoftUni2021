@@ -1,0 +1,16 @@
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\bin\Debug\net5.0\10.Crossroads-exam.exe
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\bin\Debug\net5.0\10.Crossroads-exam.deps.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\bin\Debug\net5.0\10.Crossroads-exam.runtimeconfig.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\bin\Debug\net5.0\10.Crossroads-exam.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\bin\Debug\net5.0\10.Crossroads-exam.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\bin\Debug\net5.0\ref\10.Crossroads-exam.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\bin\Debug\net5.0\10.Crossroads-exam.pdb
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\obj\Debug\net5.0\10.Crossroads-exam.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\obj\Debug\net5.0\10.Crossroads-exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\obj\Debug\net5.0\10.Crossroads-exam.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\obj\Debug\net5.0\10.Crossroads-exam.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\obj\Debug\net5.0\10.Crossroads-exam.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\obj\Debug\net5.0\10.Crossroads-exam.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\obj\Debug\net5.0\ref\10.Crossroads-exam.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\obj\Debug\net5.0\10.Crossroads-exam.pdb
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\10.Crossroads-exam\obj\Debug\net5.0\10.Crossroads-exam.genruntimeconfig.cache

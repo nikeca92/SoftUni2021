@@ -1,0 +1,16 @@
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\net5.0\05.FashionBoutique.exe
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\net5.0\05.FashionBoutique.deps.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\net5.0\05.FashionBoutique.runtimeconfig.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\net5.0\05.FashionBoutique.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\net5.0\05.FashionBoutique.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\net5.0\ref\05.FashionBoutique.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\bin\Debug\net5.0\05.FashionBoutique.pdb
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\net5.0\05.FashionBoutique.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\net5.0\05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\net5.0\05.FashionBoutique.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\net5.0\05.FashionBoutique.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\net5.0\05.FashionBoutique.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\net5.0\05.FashionBoutique.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\net5.0\ref\05.FashionBoutique.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\net5.0\05.FashionBoutique.pdb
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\05.FashionBoutique\obj\Debug\net5.0\05.FashionBoutique.genruntimeconfig.cache

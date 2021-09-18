@@ -1,0 +1,16 @@
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\net5.0\03.MaximumandMinimumElement.exe
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\net5.0\03.MaximumandMinimumElement.deps.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\net5.0\03.MaximumandMinimumElement.runtimeconfig.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\net5.0\03.MaximumandMinimumElement.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\net5.0\03.MaximumandMinimumElement.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\net5.0\ref\03.MaximumandMinimumElement.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\bin\Debug\net5.0\03.MaximumandMinimumElement.pdb
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\net5.0\03.MaximumandMinimumElement.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\net5.0\03.MaximumandMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\net5.0\03.MaximumandMinimumElement.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\net5.0\03.MaximumandMinimumElement.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\net5.0\03.MaximumandMinimumElement.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\net5.0\03.MaximumandMinimumElement.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\net5.0\ref\03.MaximumandMinimumElement.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\net5.0\03.MaximumandMinimumElement.pdb
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\03.MaximumandMinimumElement\obj\Debug\net5.0\03.MaximumandMinimumElement.genruntimeconfig.cache

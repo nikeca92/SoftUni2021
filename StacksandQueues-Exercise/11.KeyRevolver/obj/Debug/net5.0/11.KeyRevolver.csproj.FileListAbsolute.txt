@@ -1,0 +1,16 @@
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\bin\Debug\net5.0\11.KeyRevolver.exe
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\bin\Debug\net5.0\11.KeyRevolver.deps.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\bin\Debug\net5.0\11.KeyRevolver.runtimeconfig.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\bin\Debug\net5.0\11.KeyRevolver.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\bin\Debug\net5.0\11.KeyRevolver.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\bin\Debug\net5.0\ref\11.KeyRevolver.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\bin\Debug\net5.0\11.KeyRevolver.pdb
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\obj\Debug\net5.0\11.KeyRevolver.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\obj\Debug\net5.0\11.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\obj\Debug\net5.0\11.KeyRevolver.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\obj\Debug\net5.0\11.KeyRevolver.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\obj\Debug\net5.0\11.KeyRevolver.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\obj\Debug\net5.0\11.KeyRevolver.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\obj\Debug\net5.0\ref\11.KeyRevolver.dll
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\obj\Debug\net5.0\11.KeyRevolver.pdb
+D:\SoftUni2021-Advanced\StacksandQueues-Exercise\11.KeyRevolver\obj\Debug\net5.0\11.KeyRevolver.genruntimeconfig.cache
