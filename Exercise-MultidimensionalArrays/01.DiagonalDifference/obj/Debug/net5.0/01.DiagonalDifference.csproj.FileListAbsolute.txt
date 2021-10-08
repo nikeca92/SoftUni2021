@@ -1,0 +1,16 @@
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.exe
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.deps.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\bin\Debug\net5.0\ref\01.DiagonalDifference.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\bin\Debug\net5.0\01.DiagonalDifference.pdb
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\obj\Debug\net5.0\ref\01.DiagonalDifference.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.pdb
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\01.DiagonalDifference\obj\Debug\net5.0\01.DiagonalDifference.genruntimeconfig.cache

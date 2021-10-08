@@ -1,0 +1,16 @@
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\bin\Debug\net5.0\10.RadioactiveMutantVampireBunnies.exe
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\bin\Debug\net5.0\10.RadioactiveMutantVampireBunnies.deps.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\bin\Debug\net5.0\10.RadioactiveMutantVampireBunnies.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\bin\Debug\net5.0\10.RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\bin\Debug\net5.0\10.RadioactiveMutantVampireBunnies.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\bin\Debug\net5.0\ref\10.RadioactiveMutantVampireBunnies.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\bin\Debug\net5.0\10.RadioactiveMutantVampireBunnies.pdb
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\obj\Debug\net5.0\10.RadioactiveMutantVampireBunnies.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\obj\Debug\net5.0\10.RadioactiveMutantVampireBunnies.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\obj\Debug\net5.0\10.RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\obj\Debug\net5.0\10.RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\obj\Debug\net5.0\10.RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\obj\Debug\net5.0\10.RadioactiveMutantVampireBunnies.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\obj\Debug\net5.0\ref\10.RadioactiveMutantVampireBunnies.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\obj\Debug\net5.0\10.RadioactiveMutantVampireBunnies.pdb
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\10.RadioactiveMutantVampireBunnies\obj\Debug\net5.0\10.RadioactiveMutantVampireBunnies.genruntimeconfig.cache

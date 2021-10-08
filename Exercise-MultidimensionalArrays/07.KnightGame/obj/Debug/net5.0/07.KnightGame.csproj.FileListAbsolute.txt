@@ -1,0 +1,16 @@
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\bin\Debug\net5.0\07.KnightGame.exe
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\bin\Debug\net5.0\07.KnightGame.deps.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\bin\Debug\net5.0\07.KnightGame.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\bin\Debug\net5.0\07.KnightGame.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\bin\Debug\net5.0\07.KnightGame.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\bin\Debug\net5.0\ref\07.KnightGame.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\bin\Debug\net5.0\07.KnightGame.pdb
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\obj\Debug\net5.0\07.KnightGame.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\obj\Debug\net5.0\07.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\obj\Debug\net5.0\07.KnightGame.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\obj\Debug\net5.0\07.KnightGame.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\obj\Debug\net5.0\07.KnightGame.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\obj\Debug\net5.0\07.KnightGame.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\obj\Debug\net5.0\ref\07.KnightGame.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\obj\Debug\net5.0\07.KnightGame.pdb
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\07.KnightGame\obj\Debug\net5.0\07.KnightGame.genruntimeconfig.cache

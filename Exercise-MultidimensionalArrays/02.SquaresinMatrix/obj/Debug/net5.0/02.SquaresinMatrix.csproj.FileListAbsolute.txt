@@ -1,0 +1,16 @@
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\bin\Debug\net5.0\02.SquaresinMatrix.exe
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\bin\Debug\net5.0\02.SquaresinMatrix.deps.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\bin\Debug\net5.0\02.SquaresinMatrix.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\bin\Debug\net5.0\02.SquaresinMatrix.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\bin\Debug\net5.0\02.SquaresinMatrix.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\bin\Debug\net5.0\ref\02.SquaresinMatrix.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\bin\Debug\net5.0\02.SquaresinMatrix.pdb
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\obj\Debug\net5.0\02.SquaresinMatrix.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\obj\Debug\net5.0\02.SquaresinMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\obj\Debug\net5.0\02.SquaresinMatrix.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\obj\Debug\net5.0\02.SquaresinMatrix.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\obj\Debug\net5.0\02.SquaresinMatrix.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\obj\Debug\net5.0\02.SquaresinMatrix.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\obj\Debug\net5.0\ref\02.SquaresinMatrix.dll
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\obj\Debug\net5.0\02.SquaresinMatrix.pdb
+D:\SoftUni2021-Advanced\Exercise-MultidimensionalArrays\02.SquaresinMatrix\obj\Debug\net5.0\02.SquaresinMatrix.genruntimeconfig.cache
