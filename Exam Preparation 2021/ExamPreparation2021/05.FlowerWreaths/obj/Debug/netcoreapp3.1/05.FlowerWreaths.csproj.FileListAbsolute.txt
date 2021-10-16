@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\bin\Debug\netcoreapp3.1\05.FlowerWreaths.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\bin\Debug\netcoreapp3.1\05.FlowerWreaths.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\bin\Debug\netcoreapp3.1\05.FlowerWreaths.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\bin\Debug\netcoreapp3.1\05.FlowerWreaths.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\bin\Debug\netcoreapp3.1\05.FlowerWreaths.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\bin\Debug\netcoreapp3.1\05.FlowerWreaths.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\obj\Debug\netcoreapp3.1\05.FlowerWreaths.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\obj\Debug\netcoreapp3.1\05.FlowerWreaths.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\obj\Debug\netcoreapp3.1\05.FlowerWreaths.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\obj\Debug\netcoreapp3.1\05.FlowerWreaths.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\obj\Debug\netcoreapp3.1\05.FlowerWreaths.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\obj\Debug\netcoreapp3.1\05.FlowerWreaths.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\05.FlowerWreaths\obj\Debug\netcoreapp3.1\05.FlowerWreaths.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\obj\Debug\netcoreapp3.1\06.Bee.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\obj\Debug\netcoreapp3.1\06.Bee.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\obj\Debug\netcoreapp3.1\06.Bee.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\obj\Debug\netcoreapp3.1\06.Bee.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\bin\Debug\netcoreapp3.1\06.Bee.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\bin\Debug\netcoreapp3.1\06.Bee.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\bin\Debug\netcoreapp3.1\06.Bee.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\bin\Debug\netcoreapp3.1\06.Bee.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\bin\Debug\netcoreapp3.1\06.Bee.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\bin\Debug\netcoreapp3.1\06.Bee.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\obj\Debug\netcoreapp3.1\06.Bee.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\obj\Debug\netcoreapp3.1\06.Bee.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\06.Bee\obj\Debug\netcoreapp3.1\06.Bee.genruntimeconfig.cache

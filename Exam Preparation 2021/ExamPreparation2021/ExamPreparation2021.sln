@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SuperMario", "04.SuperMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FlowerWreaths", "05.FlowerWreaths\05.FlowerWreaths.csproj", "{AA2668A7-B865-49BE-8D87-7BD13CA34514}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Bee", "06.Bee\06.Bee.csproj", "{0736B122-ACCD-4D39-8872-59A9A3DED05A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AA2668A7-B865-49BE-8D87-7BD13CA34514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA2668A7-B865-49BE-8D87-7BD13CA34514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA2668A7-B865-49BE-8D87-7BD13CA34514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0736B122-ACCD-4D39-8872-59A9A3DED05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0736B122-ACCD-4D39-8872-59A9A3DED05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0736B122-ACCD-4D39-8872-59A9A3DED05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0736B122-ACCD-4D39-8872-59A9A3DED05A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
