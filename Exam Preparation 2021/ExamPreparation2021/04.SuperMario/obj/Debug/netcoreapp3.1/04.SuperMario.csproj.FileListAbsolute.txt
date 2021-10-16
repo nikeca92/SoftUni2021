@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\bin\Debug\netcoreapp3.1\04.SuperMario.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\bin\Debug\netcoreapp3.1\04.SuperMario.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\bin\Debug\netcoreapp3.1\04.SuperMario.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\bin\Debug\netcoreapp3.1\04.SuperMario.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\bin\Debug\netcoreapp3.1\04.SuperMario.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\bin\Debug\netcoreapp3.1\04.SuperMario.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\obj\Debug\netcoreapp3.1\04.SuperMario.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\obj\Debug\netcoreapp3.1\04.SuperMario.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\obj\Debug\netcoreapp3.1\04.SuperMario.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\obj\Debug\netcoreapp3.1\04.SuperMario.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\obj\Debug\netcoreapp3.1\04.SuperMario.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\obj\Debug\netcoreapp3.1\04.SuperMario.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\04.SuperMario\obj\Debug\netcoreapp3.1\04.SuperMario.genruntimeconfig.cache
