@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Survivor", "10.Survivor\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.TheBattleofTheFiveArmies", "11.TheBattleofTheFiveArmies\11.TheBattleofTheFiveArmies.csproj", "{BC1BA258-4A1E-4B55-8595-0B47A8B1CD0F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreetRacing", "12.StreetRacing\StreetRacing.csproj", "{533B5B31-10FD-418E-B56E-CE49E7543953}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{BC1BA258-4A1E-4B55-8595-0B47A8B1CD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC1BA258-4A1E-4B55-8595-0B47A8B1CD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC1BA258-4A1E-4B55-8595-0B47A8B1CD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533B5B31-10FD-418E-B56E-CE49E7543953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533B5B31-10FD-418E-B56E-CE49E7543953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533B5B31-10FD-418E-B56E-CE49E7543953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533B5B31-10FD-418E-B56E-CE49E7543953}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

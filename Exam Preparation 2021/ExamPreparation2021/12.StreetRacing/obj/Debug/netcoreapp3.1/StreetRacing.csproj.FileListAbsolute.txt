@@ -1,0 +1,12 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.genruntimeconfig.cache
