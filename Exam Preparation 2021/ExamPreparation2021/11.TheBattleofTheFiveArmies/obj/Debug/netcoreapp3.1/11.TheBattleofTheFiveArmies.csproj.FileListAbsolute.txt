@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\bin\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\bin\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\bin\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\bin\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\bin\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\bin\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\obj\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\obj\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\obj\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\obj\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\obj\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\obj\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\11.TheBattleofTheFiveArmies\obj\Debug\netcoreapp3.1\11.TheBattleofTheFiveArmies.genruntimeconfig.cache

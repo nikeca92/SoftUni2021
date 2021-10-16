@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\bin\Debug\netcoreapp3.1\Parking.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\bin\Debug\netcoreapp3.1\Parking.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\obj\Debug\netcoreapp3.1\Parking.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\obj\Debug\netcoreapp3.1\Parking.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

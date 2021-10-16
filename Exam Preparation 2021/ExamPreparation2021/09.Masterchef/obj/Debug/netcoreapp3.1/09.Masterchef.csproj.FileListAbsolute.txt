@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\bin\Debug\netcoreapp3.1\09.Masterchef.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\bin\Debug\netcoreapp3.1\09.Masterchef.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\bin\Debug\netcoreapp3.1\09.Masterchef.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\bin\Debug\netcoreapp3.1\09.Masterchef.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\bin\Debug\netcoreapp3.1\09.Masterchef.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\bin\Debug\netcoreapp3.1\09.Masterchef.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\obj\Debug\netcoreapp3.1\09.Masterchef.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\obj\Debug\netcoreapp3.1\09.Masterchef.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\obj\Debug\netcoreapp3.1\09.Masterchef.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\obj\Debug\netcoreapp3.1\09.Masterchef.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\obj\Debug\netcoreapp3.1\09.Masterchef.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\obj\Debug\netcoreapp3.1\09.Masterchef.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\09.Masterchef\obj\Debug\netcoreapp3.1\09.Masterchef.genruntimeconfig.cache
