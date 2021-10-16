@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\bin\Debug\netcoreapp3.1\08.Snake.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\bin\Debug\netcoreapp3.1\08.Snake.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\bin\Debug\netcoreapp3.1\08.Snake.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\bin\Debug\netcoreapp3.1\08.Snake.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\bin\Debug\netcoreapp3.1\08.Snake.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\bin\Debug\netcoreapp3.1\08.Snake.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\obj\Debug\netcoreapp3.1\08.Snake.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\obj\Debug\netcoreapp3.1\08.Snake.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\obj\Debug\netcoreapp3.1\08.Snake.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\obj\Debug\netcoreapp3.1\08.Snake.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\obj\Debug\netcoreapp3.1\08.Snake.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\obj\Debug\netcoreapp3.1\08.Snake.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\08.Snake\obj\Debug\netcoreapp3.1\08.Snake.genruntimeconfig.cache
