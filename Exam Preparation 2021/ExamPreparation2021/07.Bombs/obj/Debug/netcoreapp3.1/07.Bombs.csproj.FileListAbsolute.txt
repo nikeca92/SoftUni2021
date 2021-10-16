@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\bin\Debug\netcoreapp3.1\07.Bombs.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\bin\Debug\netcoreapp3.1\07.Bombs.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\bin\Debug\netcoreapp3.1\07.Bombs.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\bin\Debug\netcoreapp3.1\07.Bombs.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\bin\Debug\netcoreapp3.1\07.Bombs.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\bin\Debug\netcoreapp3.1\07.Bombs.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\obj\Debug\netcoreapp3.1\07.Bombs.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\obj\Debug\netcoreapp3.1\07.Bombs.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\obj\Debug\netcoreapp3.1\07.Bombs.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\obj\Debug\netcoreapp3.1\07.Bombs.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\obj\Debug\netcoreapp3.1\07.Bombs.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\obj\Debug\netcoreapp3.1\07.Bombs.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\07.Bombs\obj\Debug\netcoreapp3.1\07.Bombs.genruntimeconfig.cache

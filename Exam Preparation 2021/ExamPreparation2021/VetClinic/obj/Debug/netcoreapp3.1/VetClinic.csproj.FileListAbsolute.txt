@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache
