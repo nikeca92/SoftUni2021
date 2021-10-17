@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.TheBattleofTheFiveArmies
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreetRacing", "12.StreetRacing\StreetRacing.csproj", "{533B5B31-10FD-418E-B56E-CE49E7543953}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.BirthdayCelebration", "12.BirthdayCelebration\12.BirthdayCelebration.csproj", "{5ED98696-6857-472A-BAD5-DEB3207B7459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Warships", "13.Warships\13.Warships.csproj", "{2E012633-51F4-45D3-99EB-68CE0DE1A5AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{533B5B31-10FD-418E-B56E-CE49E7543953}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{533B5B31-10FD-418E-B56E-CE49E7543953}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{533B5B31-10FD-418E-B56E-CE49E7543953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED98696-6857-472A-BAD5-DEB3207B7459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED98696-6857-472A-BAD5-DEB3207B7459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED98696-6857-472A-BAD5-DEB3207B7459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED98696-6857-472A-BAD5-DEB3207B7459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E012633-51F4-45D3-99EB-68CE0DE1A5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E012633-51F4-45D3-99EB-68CE0DE1A5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E012633-51F4-45D3-99EB-68CE0DE1A5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E012633-51F4-45D3-99EB-68CE0DE1A5AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

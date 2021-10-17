@@ -1,0 +1,12 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\bin\Debug\netcoreapp3.1\12.BirthdayCelebration.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\bin\Debug\netcoreapp3.1\12.BirthdayCelebration.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\bin\Debug\netcoreapp3.1\12.BirthdayCelebration.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\bin\Debug\netcoreapp3.1\12.BirthdayCelebration.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\bin\Debug\netcoreapp3.1\12.BirthdayCelebration.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\bin\Debug\netcoreapp3.1\12.BirthdayCelebration.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\obj\Debug\netcoreapp3.1\12.BirthdayCelebration.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\obj\Debug\netcoreapp3.1\12.BirthdayCelebration.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\obj\Debug\netcoreapp3.1\12.BirthdayCelebration.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\obj\Debug\netcoreapp3.1\12.BirthdayCelebration.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\obj\Debug\netcoreapp3.1\12.BirthdayCelebration.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\12.BirthdayCelebration\obj\Debug\netcoreapp3.1\12.BirthdayCelebration.genruntimeconfig.cache
