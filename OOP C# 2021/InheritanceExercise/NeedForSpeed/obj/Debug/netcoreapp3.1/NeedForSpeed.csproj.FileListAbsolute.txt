@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache

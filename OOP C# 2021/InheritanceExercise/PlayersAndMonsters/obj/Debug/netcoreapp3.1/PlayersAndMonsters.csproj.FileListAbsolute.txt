@@ -1,0 +1,12 @@
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.genruntimeconfig.cache

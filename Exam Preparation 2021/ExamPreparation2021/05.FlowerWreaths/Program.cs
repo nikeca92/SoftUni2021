@@ -8,10 +8,10 @@ namespace _05.FlowerWreaths
     {
         static void Main(string[] args)
         {
-            Stack<int> lilies = new Stack<int>(Console.ReadLine()
+            Queue<int> lilies = new Queue<int>(Console.ReadLine()
                 .Split(", ").Select(int.Parse).ToArray());
 
-            Queue<int> roses = new Queue<int>(Console.ReadLine()
+            Queue<int> roses = new Stack<>(Console.ReadLine()
                 .Split(", ").Select(int.Parse).ToArray());
             int wreaths = 0;
             int flowers = 0;

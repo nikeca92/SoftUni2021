@@ -1,0 +1,12 @@
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache

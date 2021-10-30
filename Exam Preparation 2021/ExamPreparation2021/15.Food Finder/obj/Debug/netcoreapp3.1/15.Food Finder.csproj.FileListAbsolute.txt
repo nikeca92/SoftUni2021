@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\bin\Debug\netcoreapp3.1\15.Food Finder.exe
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\bin\Debug\netcoreapp3.1\15.Food Finder.deps.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\bin\Debug\netcoreapp3.1\15.Food Finder.runtimeconfig.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\bin\Debug\netcoreapp3.1\15.Food Finder.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\bin\Debug\netcoreapp3.1\15.Food Finder.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\bin\Debug\netcoreapp3.1\15.Food Finder.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\obj\Debug\netcoreapp3.1\15.Food Finder.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\obj\Debug\netcoreapp3.1\15.Food Finder.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\obj\Debug\netcoreapp3.1\15.Food Finder.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\obj\Debug\netcoreapp3.1\15.Food Finder.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\obj\Debug\netcoreapp3.1\15.Food Finder.dll
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\obj\Debug\netcoreapp3.1\15.Food Finder.pdb
+D:\SoftUni2021-Advanced\Exam Preparation 2021\ExamPreparation2021\15.Food Finder\obj\Debug\netcoreapp3.1\15.Food Finder.genruntimeconfig.cache
