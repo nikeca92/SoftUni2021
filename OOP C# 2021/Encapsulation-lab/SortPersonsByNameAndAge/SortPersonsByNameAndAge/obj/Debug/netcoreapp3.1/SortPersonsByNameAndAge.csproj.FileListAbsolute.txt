@@ -1,0 +1,12 @@
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.exe
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.deps.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.runtimeconfig.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\SortPersonsByNameAndAge.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\SortPersonsByNameAndAge\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\SortPersonsByNameAndAge.genruntimeconfig.cache

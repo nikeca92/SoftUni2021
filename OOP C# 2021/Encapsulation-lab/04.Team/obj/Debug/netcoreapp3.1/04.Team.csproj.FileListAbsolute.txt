@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.exe
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.deps.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.genruntimeconfig.cache

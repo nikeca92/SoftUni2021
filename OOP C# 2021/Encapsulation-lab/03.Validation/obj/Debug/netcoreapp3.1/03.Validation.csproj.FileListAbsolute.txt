@@ -1,0 +1,12 @@
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.exe
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.deps.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.runtimeconfig.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\bin\Debug\netcoreapp3.1\03.Validation.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-lab\03.Validation\obj\Debug\netcoreapp3.1\03.Validation.genruntimeconfig.cache
