@@ -1,0 +1,13 @@
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.exe
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.deps.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.runtimeconfig.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.runtimeconfig.dev.json
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.csproj.AssemblyReference.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.AssemblyInfoInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.AssemblyInfo.cs
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.dll
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.pdb
+D:\SoftUni2021-Advanced\OOP C# 2021\Encapsulation-Exercise\AnimalFarm\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.genruntimeconfig.cache
